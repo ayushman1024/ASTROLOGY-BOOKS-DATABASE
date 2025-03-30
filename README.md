@@ -8,6 +8,9 @@ Astrology Books, Articles and database of charts for research.
 - PDF format available for most of the contents.
 - Database of personally collected chart's birth details, famous personalities and important events.
 
+## 🔴‼️ Upcoming product early demo [AI Astrology](https://chatgpt.com/g/g-c1J6Lq7bi-astrologer-vedic-astrology-by-rohiniastro-com)
+### [It will be released with name and website, but for now you can visit https://www.rohiniastro.com ]
+
 [![Gitter](https://badges.gitter.im/TMS-Community/community.svg)](https://gitter.im/TMS-Community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 [![Linkedin](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/ayushman1024/)
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01JFRM) <a href="https://www.buymeacoffee.com/ar7HQlZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width=15% height=15%></a>
