@@ -8,4 +8,4 @@ Astrology Books, Articles and database of charts for research.
 - PDF format available for most of the contents.
 - Database of personally collected chart's birth details, famous personalities and important events.
 
-## 🔴‼️ Our AI Product: Vedicastrologer.ai
+## 🔴‼️ Our AI Product: Vedicastrologer.ai [https://vedicastrologer.ai/]
