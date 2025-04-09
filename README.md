@@ -1,5 +1,5 @@
 # ASTROLOGY-DATABASE
-## [SEARCH BOOKS AND ARTICLES 🔎](https://github.com/Rajesh-Lohith/ASTROLOGY-DATABASE/find/master)
+## [SEARCH BOOKS AND ARTICLES 🔎](https://github.com/Rajesh-Lohith/ASTROLOGY-BOOKS-DATABASE/find/master)
 
 Astrology Books, Articles and database of charts for research.
 
