@@ -7,5 +7,3 @@ Astrology Books, Articles and database of charts for research.
 - Author-wise and category wise books categorised in folders.
 - PDF format available for most of the contents.
 - Database of personally collected chart's birth details, famous personalities and important events.
-
-## 🔴‼️ Our AI Product: [Vedicastrologer.ai](https://vedicastrologer.ai/)
