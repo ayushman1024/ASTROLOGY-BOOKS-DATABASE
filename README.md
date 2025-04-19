@@ -13,6 +13,6 @@ Astrology Books, Articles and database of charts for research.
 [![Linkedin](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/ayushman1024/)
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01JFRM) <a href="https://www.buymeacoffee.com/ar7HQlZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width=15% height=15%></a>
 
-
+### All the files in this repo was collected from freely available sources over internet, I shall not be responsible for any copyright infringements.
 
 <img src="https://github-pages-visitor.herokuapp.com/counterimg/github_astrologydb" alt="" width="5"/>
