@@ -1,5 +1,11 @@
-# ASTROLOGY-DATABASE
-## [SEARCH BOOKS AND ARTICLES 🔎](https://github.com/ayushman1024/ASTROLOGY-DATABASE/find/master)
+# Talk to Jyai ( AI Astrologer ) [💖 Click here: Jyai](https://www.jyotish-ai.com)   
+<a href="https://play.google.com/store/apps/details?id=aysrtech.jyai.frontend" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" style="height:40px; margin-top:10px;">
+</a>
+<br><br><br>
+
+## ASTROLOGY-DATABASE
+### [SEARCH BOOKS AND ARTICLES 🔎](https://github.com/ayushman1024/ASTROLOGY-DATABASE/find/master)
 
 Astrology Books, Articles and database of charts for research.
 
