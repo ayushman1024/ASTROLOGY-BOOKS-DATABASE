@@ -1,4 +1,4 @@
-# Talk to Jyai ( AI Astrologer ) [💖 Click here: Jyai](https://www.jyotish-ai.com)   
+# Talk to Jyai ( AI Astrologer ) [💖 Click here: Jyai](https://www.jyotish-ai.com?s=gh1)   
 <a href="https://play.google.com/store/apps/details?id=aysrtech.jyai.frontend" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" style="height:40px; margin-top:10px;">
 </a>
